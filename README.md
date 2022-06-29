@@ -2,8 +2,6 @@ _____________________________
 # || Fluid Property Package ||
 _____________________________
 
-|| Fluid Property Package ||
-
 Chemical engineers are determined to find a solution for exciting problems, and a unique physical property package that can predict fluid behavior and best fit properties. Almost all process engineering projects start with simulation to determine fluid physical properties. It is possible that various methods are available and selection of the best model is difficult. In this context, proper basis and assumptions are frequently part of the design and engineering phase activities.
 
 It is a common practice to rely upon data that are validated or verified or compared with experimental data which help to justify theoretical work. e.g. narrow boiling HCs, even a 5% error in VLE matters
